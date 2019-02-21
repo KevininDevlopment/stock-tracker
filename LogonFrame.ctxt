@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LogonFrame
+comment1.params=
+comment1.target=LogonFrame()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LogonFrame\r\n
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=width\ height
+comment3.target=void\ centerOnScreen(int,\ int)
+comment4.params=userName
+comment4.target=boolean\ userExists(java.lang.String)
+comment5.params=
+comment5.target=void\ doStockActivity()
+comment6.params=
+comment6.target=void\ activate()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8

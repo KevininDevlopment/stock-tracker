@@ -1,0 +1,1 @@
+Stock Tracker built in Java. Built-in servlet and allows for database connections.

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=User
+comment0.text=\r\n\ A\ user\ class\ for\ the\ password\ authentication\ system.\r\n\r\n\ @author\ Kevin\ Amaya,\ Michael\ Mick\r\n\ @date\ 04/06/18\r\n
+comment1.params=aName\ password
+comment1.target=User(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ User\r\n
+comment2.params=aName\ password\ pswdUses
+comment2.target=User(java.lang.String,\ java.lang.String,\ int)
+comment3.params=aName\ password\ autoExpirePswd
+comment3.target=User(java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=boolean\ pswdAutoExpires()
+comment6.params=
+comment6.target=boolean\ pswdIsExpiring()
+comment7.params=
+comment7.target=int\ getPswdUses()
+comment8.params=password
+comment8.target=void\ validate(java.lang.String)
+comment9.params=oldPassword\ newPassword
+comment9.target=void\ changePassword(java.lang.String,\ java.lang.String)
+numComments=10
